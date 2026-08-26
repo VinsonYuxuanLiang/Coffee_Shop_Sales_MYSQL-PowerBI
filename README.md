@@ -39,7 +39,7 @@ Below is a preview of the full dashboard as rendered on desktop:
 
 The data is sourced from a coffee shop transactional dataset covering multiple stores and product categories.
 
-- **Dataset Link:** [Sales Data](https://www.kaggle.com/datasets/tanmayree/coffe-shop-sales-data?resource=download)
+- **Dataset Link:** [Sales Data](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales?resource=download)
 - **Raw File:** `Coffee Shop Sales.csv`
 
 ### Schema
