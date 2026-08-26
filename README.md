@@ -1,7 +1,5 @@
 # Coffee Shop Sales Analysis — Power BI & MySQL
 
-![Coffee Shop Dashboard](https://github.com/VinsonYuxuanLiang/Coffee_Shop_Sales_Analysis/raw/main/Desktop.png)
-
 ## Overview
 
 This project performs a comprehensive business analysis of coffee shop sales data using **Power BI** for interactive dashboarding and **MySQL 8.0** for data cleaning and querying.
@@ -33,7 +31,7 @@ An interactive Power BI report (`.pbix`) visualizes the full coffee shop sales s
 
 Below is a preview of the full dashboard as rendered on desktop:
 
-![Dashboard Preview](https://github.com/VinsonYuxuanLiang/Coffee_Shop_Sales_Analysis/raw/main/Desktop.png)
+![Dashboard Preview](https://github.com/VinsonYuxuanLiang/Coffee_Shop_Sales_MYSQL-PowerBI/blob/main/Dasktop.png)
 
 ---
 
@@ -41,7 +39,7 @@ Below is a preview of the full dashboard as rendered on desktop:
 
 The data is sourced from a coffee shop transactional dataset covering multiple stores and product categories.
 
-- **Dataset Link:** [Sales Data](https://www.kaggle.com/datasets/tanmayree/coffe-shop-sales-data?resource=download) *(replace with your actual source)*
+- **Dataset Link:** [Sales Data](https://www.kaggle.com/datasets/tanmayree/coffe-shop-sales-data?resource=download)
 - **Raw File:** `Coffee Shop Sales.csv`
 
 ### Schema
